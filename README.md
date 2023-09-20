@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 0x11. C - printf team project
 
 Group Project:                                                                      
@@ -61,8 +60,3 @@ Handle the following custom conversion specifier:
                                                                                     
 15. *                                                                               
 All the above options work well together.
-=======
-The printf group project is a collaboration between Francis Owoicho and Esther Okoro, students of Software Engineering at ALX School.
-
-0x11. C - printf
->>>>>>> 898e9d2f6ea562bbf509576cf1275e94bfae92af
